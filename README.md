@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I'm Rebo
 
-[![Instagram Badge](https://img.shields.io/badge/rebaz.luqman.hamd-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/rebaz.luqman.hamad/)](https://instagram.com/rebaz.luqman.hamd)
+[![Instagram Badge](https://img.shields.io/badge/rebaz.luqman.hamd-blueviolet?style=plastic-square&logo=instagram&logoColor=white&linkhttps://www.instagram.com/rebaz.luqman.hamad/)](https://instagram.com/rebaz.luqman.hamd)
 [![Twitter Badge](https://img.shields.io/badge/rebazluqmanhamd-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/codingpotter)](https://www.twitter.com/rebazluqmanhama)
 
 ## ABOUT ME
