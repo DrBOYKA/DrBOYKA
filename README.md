@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/rebazluqmanhamd-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/codingpotter)](https://www.twitter.com/rebazluqmanhama)
 
 ## ABOUT ME
-- 🤖 Bot Developer
+__ 🤖 Bot Developer
 - 💻 Web Developer
 
 ## MY GIT STATS
